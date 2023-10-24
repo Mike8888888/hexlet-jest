@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 import reverse from '../src/index.js';
 
 test('reverse', () => {
